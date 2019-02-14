@@ -1,0 +1,3 @@
+int = integer (tipe data yang dipakai untuk penulisan angka).
+if = fungsi if disini di artikan jika a lebih besar dari b dan a lebih besar dari c, maka print nilai a, dengan menanbahkan kalimat "nilai terbesar" begitu seterusnya.
+else = jika ada input lain print "salah"
